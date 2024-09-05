@@ -1,2 +1,2 @@
-# newcoding
+# newcoding.github.io
 new repository
